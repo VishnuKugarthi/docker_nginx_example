@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+
+# Docker commands
+
+To see all containers =                   docker container ls
+
+To run a image  =                 docker run -p 2005:80 docker-nginx-example-24
+
+To view contents inside a image =                 docker run -it uishell-ngninx-22-jul sh
+
