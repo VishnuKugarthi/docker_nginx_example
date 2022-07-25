@@ -77,3 +77,7 @@ To run a image  =                 docker run -p 2005:80 docker-nginx-example-24
 
 To view contents inside a image =                 docker run -it uishell-ngninx-22-jul sh
 
+
+# npm version change
+`npm run version --silent`
+https://docs.npmjs.com/cli/v8/commands/npm-version
