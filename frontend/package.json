@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "version": "0.1.0",
+  "version": "0.1.6-0",
   "private": true,
   "homepage": "/webapp",
   "dependencies": {
@@ -12,6 +12,7 @@
     "react-scripts": "3.1.1"
   },
   "scripts": {
+    "version": "echo $npm_package_version",
     "express": "node express/server.js",
     "start": "react-scripts start",
     "build": "react-scripts build",
